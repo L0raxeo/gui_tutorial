@@ -1,3 +1,1 @@
-fn main() {
-    println!("depressionv2");
-}
+fn main() {}
